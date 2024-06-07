@@ -1,4 +1,4 @@
-package pe.edu.cibertec.app_security_backoffice.model.bd;
+package pe.edu.cibertec.DAAII_T1_QuerevaluMaria.model.bd;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

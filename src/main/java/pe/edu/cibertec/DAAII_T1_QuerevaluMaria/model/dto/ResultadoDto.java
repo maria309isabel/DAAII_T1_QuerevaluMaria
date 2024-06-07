@@ -1,4 +1,4 @@
-package pe.edu.cibertec.app_security_backoffice.model.dto;
+package pe.edu.cibertec.DAAII_T1_QuerevaluMaria.model.dto;
 
 import lombok.Builder;
 import lombok.Data;
